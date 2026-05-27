@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+    background-color: #00f2b2;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #00f2b2;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -111,7 +111,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #800020;
+		color: #00f2b2;
 		text-decoration: none;
 	}
 
@@ -122,7 +122,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #787878;
+		color: #00f2b2;
 		font-weight: 400;
 	}
 
@@ -135,7 +135,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #00f2b2;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -206,9 +206,9 @@ input, select, textarea {
 	}
 
 	code {
-		background: #87ceeb;
+		background: #00f2b2;
 		border-radius: 0.35em;
-		border: solid 2px #87ceeb;
+		border: solid 2px #00f2b2;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -1801,7 +1801,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #787878;
+		color: #00f2b2;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 400;
@@ -1817,7 +1817,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: #f7f7f7;
+		background: #00f2b2;
 		border-radius: 0.35em;
 		border: solid 2px transparent;
 		color: inherit;
@@ -1841,7 +1841,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #49bf9d;
+			border-color: #00f2b2;
 		}
 
 	select {
@@ -1855,8 +1855,8 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #787878;
-			background: #fff;
+			color: #00f2b2;
+			background: #00f2b2;
 		}
 
 		select:focus::-ms-value {
@@ -1895,7 +1895,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #a2a2a2;
+			color: #00f2b2;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -1921,7 +1921,7 @@ input, select, textarea {
 
 			input[type="checkbox"] + label:before,
 			input[type="radio"] + label:before {
-				background: #f7f7f7;
+				background: #00f2b2;
 				border-radius: 0.35em;
 				border: solid 2px transparent;
 				content: '';
@@ -1938,9 +1938,9 @@ input, select, textarea {
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #787878;
-			border-color: #787878;
-			color: #fff;
+			background: #00f2b2;
+			border-color: #00f2b2;
+			color: #00f2b2;
 			content: '\f00c';
 		}
 
@@ -2650,11 +2650,11 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(244, 6, 6, 0.4);
+			color: #00f2b2(244, 6, 6, 0.4);
 		}
 
 	#footer .copyright {
-		color: rgba(255, 255, 255, 0.4);
+		color: #00f2b2 (255, 255, 255, 0.4);
 		font-size: 0.8em;
 		list-style: none;
 		margin: 1em 0 0 0;
