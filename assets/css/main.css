@@ -2624,15 +2624,15 @@ input, select, textarea {
 		}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #37add5;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: #37add5;
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(70, 245, 105, 0.779);
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
@@ -2650,7 +2650,7 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			color: rgba(244, 6, 6, 0.4);
 		}
 
 	#footer .copyright {
@@ -2689,7 +2689,7 @@ input, select, textarea {
 	}
 
 		#main > section {
-			border-top: solid 2px #efefef;
+			border-top: solid 2px #2ec90b;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
